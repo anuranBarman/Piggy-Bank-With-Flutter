@@ -12,4 +12,4 @@ This app used **sqflite** for storing the data. It also uses **shared_preference
 
 ## Sample Screenshot
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Piggy Bank")
+![alt text](https://github.com/anuranBarman/Piggy-Bank-With-Flutter/blob/master/sample.gif "Piggy Bank")
